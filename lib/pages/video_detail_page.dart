@@ -130,7 +130,7 @@ class _VideoDetailPageState extends State<VideoDetailPage> {
                               child: Text(
                                 widget.title,
                                 style: TextStyle(
-                                    fontSize: 14,
+                                    fontSize: 16,
                                     color: white.withOpacity(0.8),
                                     fontWeight: FontWeight.w500,
                                     height: 1.3),
